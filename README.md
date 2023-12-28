@@ -12,6 +12,16 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
+I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <!---
 Cyb3rl0l/Cyb3rl0l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
