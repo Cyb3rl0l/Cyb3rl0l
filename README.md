@@ -14,7 +14,7 @@
 </div>
 ---
 
-### :About_Me
+### :man_technologist: About Me :
 I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :seedling: Exploring Technical Content Writing.
